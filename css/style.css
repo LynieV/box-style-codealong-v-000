@@ -243,8 +243,7 @@ section {
 
 /*////////// FOOTER //////////*/
 
-footer: {
-  text-aligh: center
-
-  
+footer {
+  text-align: center
+  font-size: 0.75em;
 }
