@@ -33,7 +33,7 @@ figcaption {
 }
 
 .border-right {
-  border-roght: 
+  border-right: 1px dotted #ccc; 
 }
 
 /*////////// BACKGROUNDS //////////*/
