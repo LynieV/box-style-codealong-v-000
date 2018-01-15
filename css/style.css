@@ -170,7 +170,8 @@ header {
   padding: 22px 0;
   text-transform: uppercase;
   color: black;
-  text-aligh: canter
+  text-align: center;
+  border-right:;
 }
 
 /*////////// LOGO //////////*/
