@@ -150,7 +150,9 @@ header {
 /*////////// NAVBAR //////////*/
 
 #navbar {
-  position
+  position: fixed;
+  top: 0;
+  
 }
 
 /*////////// LOGO //////////*/
